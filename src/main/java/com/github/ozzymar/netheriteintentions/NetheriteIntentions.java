@@ -12,7 +12,7 @@ import org.bukkit.scheduler.BukkitRunnable;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-public final class NetheriteIntentions extends JavaPlugin {
+public class NetheriteIntentions extends JavaPlugin {
 
     @Override
     public void onEnable() {
