@@ -10,7 +10,6 @@ import org.bukkit.potion.PotionEffectType;
 import org.bukkit.scheduler.BukkitRunnable;
 
 public class NetheriteIntentions extends JavaPlugin {
-
     @Override
     public void onEnable() {
         // Plugin startup logic
