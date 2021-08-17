@@ -61,9 +61,4 @@ public class NetheriteIntentions extends JavaPlugin {
             }
         }.runTaskTimer(this, 0, 1);
     }
-
-    @Override
-    public void onDisable() {
-        // Plugin shutdown logic
-    }
 }
